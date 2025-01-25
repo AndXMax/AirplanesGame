@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb8d6b8f-4df8-491c-b888-6d616dd0a737" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Branch1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2rA653kFuwJb4phzh2inSeCZMSK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for Tests.TestAirplanesBoard.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Tests.TestComputerBoard.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Tests.TestPlayerBoard.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Facultate/FP/Lab/Clones/t2-AndMaxim&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Facultate\FP\Lab\Clones\a10-AndMaxim" />
+      <recent name="D:\Facultate\FP\Lab\Clones\a10-AndMaxim\src\ui" />
+      <recent name="D:\Facultate\FP\Lab\Clones\a10-AndMaxim\src\Domain" />
+      <recent name="D:\Facultate\FP\Lab\Clones\a10-AndMaxim\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="a10-AndMaxim" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Tests.TestAirplanesBoard" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="a10-AndMaxim" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Tests.TestAirplanesBoard&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Tests.Tests.TestComputerBoard" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="a10-AndMaxim" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Tests.Tests.TestComputerBoard&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Tests.Tests.TestPlayerBoard" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="a10-AndMaxim" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Tests.Tests.TestPlayerBoard&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in Tests.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="a10-AndMaxim" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/Tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Python tests in Tests.py" />
+        <item itemvalue="Python tests.Python tests for Tests.TestAirplanesBoard" />
+        <item itemvalue="Python tests.Python tests for Tests.Tests.TestComputerBoard" />
+        <item itemvalue="Python tests.Python tests for Tests.Tests.TestPlayerBoard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb8d6b8f-4df8-491c-b888-6d616dd0a737" name="Changes" comment="" />
+      <created>1735989346191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735989346191</updated>
+      <workItem from="1735989347254" duration="595000" />
+      <workItem from="1735990575815" duration="2204000" />
+      <workItem from="1735993342073" duration="4701000" />
+      <workItem from="1736103315826" duration="2110000" />
+      <workItem from="1736247938997" duration="9001000" />
+      <workItem from="1736259540158" duration="99000" />
+      <workItem from="1736285895655" duration="1172000" />
+      <workItem from="1736350343572" duration="128000" />
+      <workItem from="1736368956052" duration="2435000" />
+      <workItem from="1736409174658" duration="2840000" />
+      <workItem from="1736424336632" duration="2087000" />
+      <workItem from="1736427299859" duration="220000" />
+      <workItem from="1736428828855" duration="8742000" />
+      <workItem from="1736447421781" duration="24000" />
+      <workItem from="1736447454337" duration="7000" />
+      <workItem from="1736488306609" duration="504000" />
+      <workItem from="1736488853933" duration="42000" />
+      <workItem from="1736497332328" duration="2994000" />
+      <workItem from="1736500389338" duration="21000" />
+      <workItem from="1736500445377" duration="626000" />
+      <workItem from="1736514601285" duration="404000" />
+      <workItem from="1736515046598" duration="2853000" />
+      <workItem from="1736535862960" duration="1263000" />
+      <workItem from="1736699005990" duration="4072000" />
+      <workItem from="1736707964968" duration="649000" />
+      <workItem from="1736712209014" duration="93000" />
+      <workItem from="1736771863882" duration="4625000" />
+      <workItem from="1736782897487" duration="3416000" />
+      <workItem from="1736835253405" duration="1654000" />
+      <workItem from="1736838346710" duration="2192000" />
+      <workItem from="1736884057350" duration="691000" />
+      <workItem from="1736953513579" duration="160000" />
+      <workItem from="1737029335929" duration="8370000" />
+      <workItem from="1737038661493" duration="8249000" />
+      <workItem from="1737054772520" duration="2567000" />
+      <workItem from="1737059088769" duration="490000" />
+      <workItem from="1737093891961" duration="1700000" />
+      <workItem from="1737097398566" duration="1128000" />
+      <workItem from="1737210326431" duration="235000" />
+      <workItem from="1737736032512" duration="256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/a10_AndMaxim$main.coverage" NAME="main Coverage Results" MODIFIED="1737736047176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/a10_AndMaxim$.coverage" NAME=" Coverage Results" MODIFIED="1737094686217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+  </component>
+</project>
